@@ -1,2 +1,2 @@
 # SimpleLogin
-This is a Practice for Bootstraps 5 
+This is a Cookie cutter Login page for social platforms using bootstrap
